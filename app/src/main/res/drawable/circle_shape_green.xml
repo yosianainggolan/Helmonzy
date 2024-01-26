@@ -1,0 +1,14 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Bentuk luar lingkaran untuk border -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/outer_circle_green" /> <!-- Warna latar belakang -->
+        </shape>
+    </item>
+    <!-- Bentuk lingkaran untuk isi (pada posisi sedikit lebih dalam) -->
+    <item android:left="5dp" android:right="5dp" android:top="5dp" android:bottom="5dp">
+        <shape android:shape="oval">
+            <solid android:color="@color/inner_circle_green" /> <!-- Warna isi lingkaran -->
+        </shape>
+    </item>
+</layer-list>

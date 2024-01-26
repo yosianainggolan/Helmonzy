@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406913656207",
+    "project_id": "helmonzy",
+    "storage_bucket": "helmonzy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406913656207:android:acf262baf99d1f780417fa",
+        "android_client_info": {
+          "package_name": "com.example.helmonzy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2XMdbNfJNWnRNREW09Xnh-PwJ2pN15cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

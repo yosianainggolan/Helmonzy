@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#73abef</color>
+    <color name="pink">#faf</color>
+    <color name="gray">#a5a5a5</color>
+    <color name="outer_circle_red">#ff4900</color>
+    <color name="inner_circle_red">#ffded1</color>
+    <color name="outer_circle_green">#4CAF50</color>
+    <color name="inner_circle_green">#E6FFD1</color>
+    <color name="red">#ff3b30</color>
+
+    <color name="button_pressed_color">#292828</color>
+
+</resources>
